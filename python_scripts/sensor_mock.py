@@ -11,7 +11,7 @@ def main():
     PORT = 1883
     TOPIC_TEMPERATURE = "sensor/temperature"
     TOPIC_HUMIDITY = "sensor/humidity"
-    INTERVAL = 2 # Seconds between messages
+    INTERVAL = 10 # Seconds between messages
 
     #Current sensor values
     global current_temperature
