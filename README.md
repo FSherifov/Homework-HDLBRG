@@ -4,10 +4,6 @@
 3. Python script to feed data into MQTT Broker
 4. Python script to read data from MQTT Broker and save it into persistent storage(Postgres)
 5. C# REST API to access data easily from different places
-6. Some kind of FrontEnd to display data in graphical sense
-
-
-
 
 # Prerequisites
 
